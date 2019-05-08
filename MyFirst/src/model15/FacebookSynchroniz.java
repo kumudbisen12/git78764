@@ -11,6 +11,7 @@ public class FacebookSynchroniz
 {
 	public static void main(String[] args) 
 	{ 
+		System.out.println("the current url 1565656");
 		System.out.println("the current url 121212");
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\ab\\Desktop\\Testing\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
